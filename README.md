@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with vue react uni-app
 - 💬 Ask me about 
 - 📫 How to reach me: wechat
-- 😄 Pronouns: good good study ,day day up
+- 😄 Pronouns: good good study ,day day progress
 - ⚡ Fun fact: nothing
 
